@@ -1,0 +1,23 @@
+C:\WIP\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+C:\WIP\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+C:\WIP\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.exe
+C:\WIP\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.pdb
+C:\WIP\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
+C:\WIP\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+C:\WIP\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
+C:\WIP\Hello\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+C:\WIP\Hello\HelloWorld\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+C:\WIP\Hello\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.exe
+C:\WIP\Hello\HelloWorld\HelloWorldTests\bin\Debug\HelloWorld.pdb
+C:\WIP\Hello\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
+C:\WIP\Hello\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+C:\WIP\Hello\HelloWorld\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
+E:\OneDrive\Personal\Development\Visual Studio 2017\Projects\HelloWorld_JenkinsTest\HelloWorldTests\bin\Debug\HelloWorldTests.dll
+E:\OneDrive\Personal\Development\Visual Studio 2017\Projects\HelloWorld_JenkinsTest\HelloWorldTests\bin\Debug\HelloWorldTests.pdb
+E:\OneDrive\Personal\Development\Visual Studio 2017\Projects\HelloWorld_JenkinsTest\HelloWorldTests\bin\Debug\HelloWorld.exe
+E:\OneDrive\Personal\Development\Visual Studio 2017\Projects\HelloWorld_JenkinsTest\HelloWorldTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\OneDrive\Personal\Development\Visual Studio 2017\Projects\HelloWorld_JenkinsTest\HelloWorldTests\bin\Debug\HelloWorld.pdb
+E:\OneDrive\Personal\Development\Visual Studio 2017\Projects\HelloWorld_JenkinsTest\HelloWorldTests\bin\Debug\HelloWorld.exe.config
+E:\OneDrive\Personal\Development\Visual Studio 2017\Projects\HelloWorld_JenkinsTest\HelloWorldTests\obj\Debug\HelloWorldTests.csprojResolveAssemblyReference.cache
+E:\OneDrive\Personal\Development\Visual Studio 2017\Projects\HelloWorld_JenkinsTest\HelloWorldTests\obj\Debug\HelloWorldTests.dll
+E:\OneDrive\Personal\Development\Visual Studio 2017\Projects\HelloWorld_JenkinsTest\HelloWorldTests\obj\Debug\HelloWorldTests.pdb
